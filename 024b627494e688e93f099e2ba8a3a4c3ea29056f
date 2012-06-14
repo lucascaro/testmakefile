@@ -1,0 +1,11 @@
+{
+  "built_on": "master",
+  "duration": 3.386,
+  "full_display_name": "testmakefile #27",
+  "id": "2012-06-14_00-43-45",
+  "number": 27,
+  "result": "FAILURE",
+  "status_message": "?",
+  "time": "2012-06-14 00:43:45 +0000",
+  "url": "job/testmakefile/27/"
+}
