@@ -1,4 +1,4 @@
 testmakefile
 ============
 
-Testing a drupal distribution
+Testing a drupal distribution.
